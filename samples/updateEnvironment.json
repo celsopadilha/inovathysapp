@@ -1,0 +1,15 @@
+{
+    "type": 11,
+    "body": {
+        "id": "5a305ff11c4a91958e0396b0",
+        "name": "ENVIRONMENT EDITED 1",
+        "users": [
+            "1",
+            "2"
+        ],
+        "devices": [
+            "1",
+            "2"
+        ]
+    }
+}

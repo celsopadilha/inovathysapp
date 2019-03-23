@@ -1,0 +1,11 @@
+{
+    "type": 20,
+    "body": {
+        "name": "New Device",
+        "devh": 1,
+        "devl": 0,
+        "values": [],
+        "type": 10,
+        "envId": "5a31788e1c4a9117398cc3cc"
+    }
+}

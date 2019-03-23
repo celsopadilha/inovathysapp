@@ -1,0 +1,9 @@
+{
+    "type": 40,
+    "body": {
+        "name": "Commom",
+        "password": "123456ok",
+        "email": "commom@papaga.io",
+        "admin": false
+    }
+}

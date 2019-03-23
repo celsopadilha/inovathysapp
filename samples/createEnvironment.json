@@ -1,0 +1,24 @@
+{
+    "type": 10,
+    "body": {
+        "name": "New Environment Model",
+        "devices": 
+        [
+        	{
+                "name": "New Device 0",
+                "devh": 0,
+                "devl": 0,
+                "type": 0
+            },
+            {
+                "name": "New Device 1",
+                "devh": 1,
+                "devl": 1,
+                "type": 1
+            }
+        ],
+        "users": [
+
+        ]
+    }
+}
